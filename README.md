@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 -->
 
 <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=hohky&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <br>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hohky&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/hohky">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=hohky&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hohky&layout=compact&langs_count=7&theme=dark"/>
 </div>
- 
 <div>
   <a href="https://discord.gg/vpDWzPEn6C"> <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
 </div>
